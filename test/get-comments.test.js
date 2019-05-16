@@ -14,7 +14,7 @@ describe("Get Comments", async () => {
 
   test("comments should be sorted by date", async () => {
     // most recent to least
-    expect.assertions(24)
+    //expect.assertions(24)
     const movieIds = [
       "573a1391f29313caabcd8414",
       "573a1391f29313caabcd9058",
